@@ -1,2 +1,2 @@
-# BlogMark
-前端博客收集
+# ArticleMark
+前端好文收藏
